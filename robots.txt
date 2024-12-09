@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://kkwgo.github.io/test-congo/sitemap.xml
+Sitemap: https://kkwgo.github.io/reno-transit/sitemap.xml
